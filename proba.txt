@@ -1,4 +1,2 @@
-hjgjjdhc
-kkkkjdllddjshhjg
-kkgll
-ррллллывгграта
+#include <iostream.h>
+using namespace std;
